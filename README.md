@@ -22,7 +22,7 @@ I am passionate about applying data science and AI to healthcare transformation,
 ### Hypothesis and hunches about the data
 It would be interesting to investigate the following questions about the data:
 
-*Has influenza spread increased over the recent years and are marked changes observed over the decade?
+* Has influenza spread increased over the recent years and are marked changes observed over the decade?
 * Are there particular WHO regions that are strongly affected by influenza and contibute a greater proportion of worlwide cases? -Are there particular countries that are strongly affected by influenza and
 contibute a greater proportion of overall cases in the continent/WHO region?
 * Has there been a change in the countries most affected by influenza in the recent years?
